@@ -1,0 +1,32 @@
+<?php
+
+return [
+    'invalid signature message' => '無効な署名メッセージ',
+    'currency_not_found' => '通貨が存在しません',
+    'currency_not_supported' => 'この通貨は入金に対応していません',
+    'recharge_success' => 'リチャージが成功しました。リチャージページにリダイレクトしています',
+    'recharge_not_found' => 'リチャージ記録が存在しません',
+    'recharge_callback_success' => 'リチャージ成功',
+    'recharge_hash_repeat' => 'トランザクションハッシュは既に処理済みです',
+    'invalid_hash' => '無効なハッシュです',
+    'recharge_list_success' => 'リチャージ一覧の取得に成功しました',
+    'user_not_found' => 'ユーザーが存在しません',
+    'account_balance_insufficient' => 'アカウント残高が不足しています',
+    'transfer_success' => '送金成功',
+    'transfer_failed' => '送金失敗',
+    'transfer_not_supported' => 'この通貨は送金に対応していません',
+    'transfer_successful' => '送金成功',
+    'insufficient_balance' => '残高不足',
+    'withdraw_not_supported' => 'この通貨は出金に対応していません',
+    'withdraw_successful' => '出金成功',
+    'withdraw_failed' => '出金失敗',
+    'withdraw_amount_too_large' => '出金額が大きすぎます',
+    'withdraw_amount_too_small' => '出金額が小さすぎます',
+    'withdraw_time_invalid' => '出金時間は無効です',
+    'withdraw_count_too_many' => '出金回数が多すぎます',
+    'withdraw_successful_waiting_review' => '出金成功、審査待ちです',
+    'withdraw_auto_successful' => '自動出金が承認されました',
+    
+    'invite_code_error' => '招待コードが間違っています',
+    'invite_code_empty_error' => '招待コードを入力してください',
+];

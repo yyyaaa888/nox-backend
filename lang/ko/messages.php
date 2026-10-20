@@ -1,0 +1,32 @@
+<?php
+
+return [
+    'invalid signature message' => '잘못된 서명 메시지',
+    'currency_not_found' => '통화가 존재하지 않습니다',
+    'currency_not_supported' => '이 통화는 충전을 지원하지 않습니다',
+    'recharge_success' => '충전이 성공되었습니다. 충전 페이지로 이동 중입니다',
+    'recharge_not_found' => '충전 기록이 존재하지 않습니다',
+    'recharge_callback_success' => '충전 성공',
+    'recharge_hash_repeat' => '거래 해시가 이미 처리되었습니다',
+    'invalid_hash' => '잘못된 해시입니다',
+    'recharge_list_success' => '충전 목록 가져오기 성공',
+    'user_not_found' => '사용자가 존재하지 않습니다',
+    'account_balance_insufficient' => '계정 잔액이 부족합니다',
+    'transfer_success' => '송금 성공',
+    'transfer_failed' => '송금 실패',
+    'transfer_not_supported' => '이 통화는 송금을 지원하지 않습니다',
+    'transfer_successful' => '송금 성공',
+    'insufficient_balance' => '잔액 부족',
+    'withdraw_not_supported' => '이 통화는 출금을 지원하지 않습니다',
+    'withdraw_successful' => '출금 성공',
+    'withdraw_failed' => '출금 실패',
+    'withdraw_amount_too_large' => '출금 금액이 너무 큽니다',
+    'withdraw_amount_too_small' => '출금 금액이 너무 작습니다',
+    'withdraw_time_invalid' => '출금 시간이 유효하지 않습니다',
+    'withdraw_count_too_many' => '출금 횟수가 너무 많습니다',
+    'withdraw_successful_waiting_review' => '출금 성공, 심사 대기 중',
+    'withdraw_auto_successful' => '자동 출금이 승인되었습니다',
+    
+    'invite_code_error' => '초대 코드 오류',
+    'invite_code_empty_error' => '초대 코드를 입력해 주세요',
+];

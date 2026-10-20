@@ -1,0 +1,29 @@
+{
+    "preset": "laravel",
+    "rules": {
+        "new_with_braces": true,
+        "line_ending": true,
+        "binary_operator_spaces": {
+            "operators": {
+                "=>": "align_single_space_minimal",
+                "=": "align_single_space_minimal"
+            }
+        }
+    },
+    "exclude": [
+        "bootstrap",
+        "config",
+        "contracts",
+        "coverage",
+        "database",
+        "docs",
+        "lang",
+        "public",
+        "resources",
+        "routes",
+        "sql",
+        "storage",
+        "tests",
+        "vendor"
+    ]
+}

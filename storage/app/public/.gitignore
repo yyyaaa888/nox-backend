@@ -1,0 +1,9 @@
+*
+!default/
+!articles/
+!banners/
+!partners/
+!databases/
+!machines/
+!contents/
+!.gitignore

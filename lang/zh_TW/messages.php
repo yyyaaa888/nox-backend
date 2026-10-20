@@ -1,0 +1,32 @@
+<?php
+
+return [
+    'invalid signature message' => '無效的簽名消息',
+    'currency_not_found' => '幣種不存在',
+    'currency_not_supported' => '該幣種不支持充值',
+    'recharge_success' => '加載充值成功,正在跳轉到充值頁面',
+    'recharge_not_found' => '充值記錄不存在',
+    'recharge_callback_success' => '充值成功',
+    'recharge_hash_repeat' => '交易hash已完成',
+    'invalid_hash' => '無效的hash',
+    'recharge_list_success' => '充值列表獲取成功',
+    'user_not_found' => '用戶不存在',
+    'account_balance_insufficient' => '賬戶餘額不足',
+    'transfer_success' => '轉賬成功',
+    'transfer_failed' => '轉賬失敗',
+    'transfer_not_supported' => '該幣種不支持轉賬',
+    'transfer_successful' => '轉賬成功',
+    'insufficient_balance' => '餘額不足',
+    'withdraw_not_supported' => '該幣種不支持提現',
+    'withdraw_successful' => '提現成功',
+    'withdraw_failed' => '提現失敗',
+    'withdraw_amount_too_large' => '提現金額過大',
+    'withdraw_amount_too_small' => '提現金額過小',
+    'withdraw_time_invalid' => '提現時間無效',
+    'withdraw_count_too_many' => '提現次數過多',
+    'withdraw_successful_waiting_review' => '提現成功,等待審核',
+    'withdraw_auto_successful' => '提現自動通過成功',
+
+    'invite_code_error' => '邀請碼錯誤',
+    'invite_code_empty_error' => '請輸入邀請碼',
+];

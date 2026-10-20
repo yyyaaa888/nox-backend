@@ -1,0 +1,32 @@
+<?php
+
+return [
+    'invalid signature message' => 'Mesej tandatangan tidak sah',
+    'currency_not_found' => 'Mata wang tidak wujud',
+    'currency_not_supported' => 'Mata wang ini tidak menyokong deposit',
+    'recharge_success' => 'Deposit berjaya dimuatkan, sedang menuju ke halaman deposit',
+    'recharge_not_found' => 'Rekod deposit tidak wujud',
+    'recharge_callback_success' => 'Deposit berjaya',
+    'recharge_hash_repeat' => 'Hash transaksi telah selesai',
+    'invalid_hash' => 'Hash tidak sah',
+    'recharge_list_success' => 'Senarai deposit berjaya diambil',
+    'user_not_found' => 'Pengguna tidak wujud',
+    'account_balance_insufficient' => 'Baki akaun tidak mencukupi',
+    'transfer_success' => 'Pemindahan berjaya',
+    'transfer_failed' => 'Pemindahan gagal',
+    'transfer_not_supported' => 'Mata wang ini tidak menyokong pemindahan',
+    'transfer_successful' => 'Pemindahan berjaya',
+    'insufficient_balance' => 'Baki tidak mencukupi',
+    'withdraw_not_supported' => 'Mata wang ini tidak menyokong pengeluaran',
+    'withdraw_successful' => 'Pengeluaran berjaya',
+    'withdraw_failed' => 'Pengeluaran gagal',
+    'withdraw_amount_too_large' => 'Jumlah pengeluaran terlalu besar',
+    'withdraw_amount_too_small' => 'Jumlah pengeluaran terlalu kecil',
+    'withdraw_time_invalid' => 'Masa pengeluaran tidak sah',
+    'withdraw_count_too_many' => 'Terlalu banyak kali pengeluaran',
+    'withdraw_successful_waiting_review' => 'Pengeluaran berjaya, menunggu semakan',
+    'withdraw_auto_successful' => 'Pengeluaran automatik berjaya diluluskan',
+
+    'invite_code_error' => 'Kod jemputan salah',
+    'invite_code_empty_error' => 'Sila masukkan kod jemputan',
+];

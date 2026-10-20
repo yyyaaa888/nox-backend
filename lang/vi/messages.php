@@ -1,0 +1,32 @@
+<?php
+
+return [
+    'invalid signature message' => 'Thông báo chữ ký không hợp lệ',
+    'currency_not_found' => 'Loại tiền tệ không tồn tại',
+    'currency_not_supported' => 'Loại tiền tệ này không hỗ trợ nạp tiền',
+    'recharge_success' => 'Nạp tiền thành công, đang chuyển hướng đến trang nạp tiền',
+    'recharge_not_found' => 'Lịch sử nạp tiền không tồn tại',
+    'recharge_callback_success' => 'Nạp tiền thành công',
+    'recharge_hash_repeat' => 'Giao dịch hash đã hoàn tất',
+    'invalid_hash' => 'Hash không hợp lệ',
+    'recharge_list_success' => 'Danh sách nạp tiền được lấy thành công',
+    'user_not_found' => 'Người dùng không tồn tại',
+    'account_balance_insufficient' => 'Số dư tài khoản không đủ',
+    'transfer_success' => 'Chuyển tiền thành công',
+    'transfer_failed' => 'Chuyển tiền thất bại',
+    'transfer_not_supported' => 'Loại tiền tệ này không hỗ trợ chuyển tiền',
+    'transfer_successful' => 'Chuyển tiền thành công',
+    'insufficient_balance' => 'Số dư không đủ',
+    'withdraw_not_supported' => 'Loại tiền tệ này không hỗ trợ rút tiền',
+    'withdraw_successful' => 'Rút tiền thành công',
+    'withdraw_failed' => 'Rút tiền thất bại',
+    'withdraw_amount_too_large' => 'Số tiền rút quá lớn',
+    'withdraw_amount_too_small' => 'Số tiền rút quá nhỏ',
+    'withdraw_time_invalid' => 'Thời gian rút tiền không hợp lệ',
+    'withdraw_count_too_many' => 'Quá nhiều lần rút tiền',
+    'withdraw_successful_waiting_review' => 'Rút tiền thành công, đang chờ kiểm duyệt',
+    'withdraw_auto_successful' => 'Rút tiền tự động duyệt thành công',
+
+    'invite_code_error' => 'Mã giới thiệu sai',
+    'invite_code_empty_error' => 'Vui lòng nhập mã giới thiệu',
+];

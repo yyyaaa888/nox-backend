@@ -1,0 +1,32 @@
+<?php
+
+return [
+    'invalid signature message' => 'Invalid signature message',
+    'currency_not_found' => 'Currency not found',
+    'currency_not_supported' => 'Recharge is not supported for this currency',
+    'recharge_success' => 'Recharge loaded successfully, redirecting to recharge page',
+    'recharge_not_found' => 'Recharge record not found',
+    'recharge_callback_success' => 'Recharge successful',
+    'recharge_hash_repeat' => 'Transaction hash already completed',
+    'invalid_hash' => 'Invalid hash',
+    'recharge_list_success' => 'Recharge list retrieved successfully',
+    'user_not_found' => 'User not found',
+    'account_balance_insufficient' => 'Account balance insufficient',
+    'transfer_success' => 'Transfer successful',
+    'transfer_failed' => 'Transfer failed',
+    'transfer_not_supported' => 'Transfer is not supported for this currency',
+    'transfer_successful' => 'Transfer successful',
+    'insufficient_balance' => 'Insufficient balance',
+    'withdraw_not_supported' => 'Withdrawal is not supported for this currency',
+    'withdraw_successful' => 'Withdrawal successful',
+    'withdraw_failed' => 'Withdrawal failed',
+    'withdraw_amount_too_large' => 'Withdrawal amount too large',
+    'withdraw_amount_too_small' => 'Withdrawal amount too small',
+    'withdraw_time_invalid' => 'Invalid withdrawal time',
+    'withdraw_count_too_many' => 'Too many withdrawal attempts',
+    'withdraw_successful_waiting_review' => 'Withdrawal successful, awaiting review',
+    'withdraw_auto_successful' => 'Withdrawal automatically approved successfully',
+
+    'invite_code_error' => 'Invalid invitation code',
+    'invite_code_empty_error' => 'Please enter the invitation code',
+];
